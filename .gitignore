@@ -1,0 +1,9 @@
+node_modules
+dist
+launcher/build
+
+# The built program. Make it with: npm run exe
+*.exe
+
+# Personal settings of tools
+.claude/settings.local.json
